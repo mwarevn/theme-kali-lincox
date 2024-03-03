@@ -3,7 +3,7 @@
 ### Quick Install:
 
 ```
-git clone https://github.com/mwarevn/theme-kali-lincox.git; cd theme-kali-lincox; sudo bash Install.sh --install
+git clone https://github.com/mwarevn/theme-kali-lincox.git; cd theme-kali-lincox; chmod +x Install.sh; ./Install.sh --install
 ```
 
 ### Usage:
